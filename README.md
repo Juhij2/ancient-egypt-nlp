@@ -57,3 +57,21 @@ The project is divided into four main parts:
 - PyTorch
 - matplotlib
 - umap-learn
+
+## How to Run
+
+1. Clone the repository:
+```bash
+git clone https://github.com/Juhij2/ancient-egypt-nlp.git
+
+2. Install dependencies:
+pip install -r requirements.txt
+
+3. Open the notebook:
+jupyter notebook
+
+4. Run the notebook step by step.
+```
+
+## Author
+Juhi Jadhav
